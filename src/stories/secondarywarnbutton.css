@@ -1,0 +1,33 @@
+
+.secondary-warn {
+  border-radius:55px;
+  padding: 12px 74px;
+  border:1px solid #FF0044; 
+  color: #FF0044;
+}
+
+.secondary-warn-button-small {
+  font-size: 14px;
+  padding: 11px 78px;
+}
+.secondary-warn-button-medium {
+  font-size: 16px;
+  padding: 12px 74px;
+}
+.secondary-warn-button-large {
+  font-size: 18px;
+  padding: 16px 70px;
+}
+.secondary-warn-enabled{
+ background-color: #FFFFFF;
+}
+.secondary-warn-hover{
+  background-color: #FFE5EC
+}
+.secondary-warn-actived{
+  background-color: #FFB2C6
+}
+.secondary-warn-disable{
+  background-color: #FFFFFF;
+  opacity: 0.3;
+}

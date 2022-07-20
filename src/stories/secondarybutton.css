@@ -1,0 +1,39 @@
+
+.secondary-button {
+  color: #05A5D1;
+  border-radius: 136px;
+  border: 1px solid #05A5D1;
+  padding: 11.5px 74px;
+}
+.secondary-button-xsmall {
+  font-size: 14px;
+  padding: 9px 79px;
+}
+.secondary-button-small {
+  font-size: 14px;
+  padding: 11px 78px;
+}
+.secondary-button-medium {
+  font-size: 16px;
+  padding: 11.5px 74px;
+}
+.secondary-button-large {
+  font-size: 18px;
+  padding: 16px 70px;
+}
+.secondary-enabled{
+  background-color: white;
+  opacity: 1;
+}
+.secondary-hover{
+  background: #05A5D11A;
+  opacity:1;
+}
+.secondary-actived{
+  opacity: 1;
+  background: #05A5D14D
+}
+.secondary-disable{
+  background-color: white;
+  opacity: 0.3;
+}

@@ -1,0 +1,55 @@
+
+.v-center{
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.primary-button {
+  background: #05A5D1;
+  border: 1px solid #05A4D1;
+  opacity: 1;
+  color: #FFFFFF;
+}
+.primary-secondary {
+  color: #333;
+  background-color: transparent;
+  box-shadow: rgba(0, 0, 0, 0.15) 0px 0px 0px 1px inset;
+}
+.primary-button-xsmall {
+  font-size: 14px;
+  padding: 9px 35px;
+  border-radius: 26px;
+  height: 35px;
+}
+.primary-button-small {
+  font-size: 14px;
+  padding: 11px 78px;
+  border-radius: 55px;
+  height:48px;
+}
+.primary-button-medium {
+  font-size: 16px;
+  padding: 12px 74px;
+  border-radius: 55px;
+  height:52px;
+}
+.primary-button-large {
+  font-size: 18px;
+  padding: 16px 70px;
+  border-radius: 55px;
+  height:65px;
+}
+.primary-enable{
+  opacity: 1;
+}
+.primary-hover{
+  opacity: 0.8;
+}
+.primary-actived{
+  opacity: 1;
+  box-shadow: inset 0px 70px 0px #00000029;
+}
+.primary-disable{
+  opacity: 0.3;
+}

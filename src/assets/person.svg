@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="80" height="80" viewBox="0 0 80 80">
+  <g id="Group_54014" data-name="Group 54014" transform="translate(-167.5 -16)">
+    <g id="Ellipse_474" data-name="Ellipse 474" transform="translate(167.5 16)" fill="#fff" stroke="#f04" stroke-width="3">
+      <circle cx="40" cy="40" r="40" stroke="none"/>
+      <circle cx="40" cy="40" r="38.5" fill="none"/>
+    </g>
+    <g id="person-dash" transform="translate(186.167 38)">
+      <path id="Path_73725" data-name="Path 73725" d="M16,18a8,8,0,1,0-8-8A8,8,0,0,0,16,18Zm5.333-8A5.333,5.333,0,1,1,16,4.667,5.333,5.333,0,0,1,21.333,10ZM32,31.333A2.612,2.612,0,0,1,29.333,34H2.667A2.612,2.612,0,0,1,0,31.333c0-2.667,2.667-10.667,16-10.667S32,28.667,32,31.333Zm-2.667-.011a7.125,7.125,0,0,0-2.219-4.437C25.376,25.147,22.1,23.333,16,23.333S6.624,25.147,4.885,26.885a7.14,7.14,0,0,0-2.219,4.437Z" transform="translate(0 0)" fill="#f04"/>
+      <path id="Path_73726" data-name="Path 73726" d="M11,8.333A1.333,1.333,0,0,1,12.333,7H23a1.333,1.333,0,0,1,0,2.667H12.333A1.333,1.333,0,0,1,11,8.333Z" transform="translate(18.333 8.333)" fill="#f04" fill-rule="evenodd"/>
+    </g>
+  </g>
+</svg>

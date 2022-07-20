@@ -1,0 +1,36 @@
+
+.warning {
+  color: #FFFFFF;
+  border-radius:55px;
+  background: #FF0044;
+  padding: 12px 74px;
+}
+
+.warning-button-small {
+  font-size: 14px;
+  padding: 11px 78px;
+}
+.warning-button-medium {
+  font-size: 16px;
+  padding: 12px 74px;
+}
+.warning-button-large {
+  font-size: 18px;
+  padding: 16px 70px;
+}
+.warning-enabled{
+  background-color: #FF0044 ;
+  border:1px solid #FF0044 
+}
+.warning-hover{
+ background-color: #FF1A57;
+ border:1px solid #FF1A57;
+}
+.warning-actived{
+ background-color: #E70240;
+ border:1px solid #E70240
+}
+.warning-disable{
+  background-color:  #FFB2C6;
+  border:1px solid #FFB2C6
+}

@@ -1,0 +1,58 @@
+
+.v-center{
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+.v-between{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.warning-badge{
+  border: 1px solid #FF0044;
+  opacity: 1;
+  background-color:#FFE5EC;
+  color:#FF0044;
+}
+.success-badge{
+  border: 1px solid #6DD400;
+  opacity: 1;
+  background-color:#6DD4000F;
+  color:#6DD400;
+}
+.s-1{
+  width: 82px;
+  height: 32px;
+  font-size: 12px;
+  border-radius: 41px;
+}
+
+.s-2{
+  max-width: 36px;
+  height: 20px;
+  font-size: 12px;
+  border-radius: 41px;
+}
+
+.s-3{
+  width: 68px;
+  height: 32px;
+  font-size:15px;
+}
+
+
+.low{
+  background: #ACBBD0 ;
+  border-radius: 16px;
+  color: #FFFFFF;
+  display: flex;
+  padding: 0px 14px;
+}
+.high{
+ background:#F6BB05;
+ border-radius: 16px;
+ color: #FFFFFF;
+ display: flex;
+ padding: 0px 14px;
+}
